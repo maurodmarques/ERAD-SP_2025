@@ -26,8 +26,8 @@
             "rejectUnauthorized": false,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "user_100_AcXYmo",
-            "password": "O{u*9?PAfNA4fD2hdN1Kt5Xj"
+            "user": "",
+            "password": ""
         }
     ]
 }
