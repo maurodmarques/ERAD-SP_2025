@@ -13,12 +13,12 @@ https://gitpod.io/#https://github.com/mauromarx/ERAD-SP_2025
 
 ```
 - General Bundles:
-cd “C:\Program Files (x86)\HPCCSystems\9.4.0\clienttools\bin"
+cd "C:\Program Files (x86)\HPCCSystems\9.4.0\clienttools\bin"
 ecl bundle install https://github.com/hpcc-systems/DataPatterns.git
 ecl bundle install https://github.com/hpcc-systems/Visualizer.git
 
 - Machine Learning Bundles:
-cd “C:\Program Files (x86)\HPCCSystems\9.4.0\clienttools\bin"
+cd "C:\Program Files (x86)\HPCCSystems\9.4.0\clienttools\bin"
 ecl bundle install https://github.com/hpcc-systems/ML_Core.git
 ecl bundle install https://github.com/hpcc-systems/PBblas.git
 ecl bundle install https://github.com/hpcc-systems/LearningTrees.git
